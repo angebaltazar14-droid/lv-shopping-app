@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620874623384",
+    "project_id": "lv-app-807ab",
+    "storage_bucket": "lv-app-807ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620874623384:android:97c4c4729193ca07f423ed",
+        "android_client_info": {
+          "package_name": "com.example.lv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7OHzzN04ibEkapOZ_TBBBDln5ydBI6Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
