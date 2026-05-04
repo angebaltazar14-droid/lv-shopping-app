@@ -1,21 +1,26 @@
-<<<<<<< HEAD
-# lv-shopping-app
-LV Shopping App using Flutter and Firebase
-=======
-# lv
+# LV Shopping App
 
-A new Flutter project.
+A modern mobile shopping application inspired by luxury brand experience, built using Flutter and Firebase.  
+This app allows users to browse products, add to cart, and place orders seamlessly.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔐 User authentication (Login/Register)
+- 🛍️ Browse products
+- 🔎 Search functionality
+- 🛒 Add to cart
+- 💳 Checkout system
+- 📦 Order tracking / history
+- 👤 User profile management
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> f121eba (Initial commit)
+
+
+## 🛠️ Technologies Used
+
+- Flutter (Dart)
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Storage
+
